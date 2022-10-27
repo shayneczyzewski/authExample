@@ -1,0 +1,4 @@
+/.wasp/
+# Normally, we would ignore .env files.
+# However, we do not do so here so you can see what envars Google auth needs.
+# /.env
